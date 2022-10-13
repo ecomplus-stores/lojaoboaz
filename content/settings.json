@@ -1,25 +1,25 @@
 {
-  "store_id": 2466,
-  "name": "lojaoboaz",
   "domain": "lojaoboaz.netlify.app",
-  "short_name": "lojaoboaz",
-  "description": "lojaoboaz",
+  "currency_symbol": "R$",
   "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
   "theme": {
     "bootswatch": "_",
-    "custom": "_"
+    "custom": "niche-game"
   },
+  "bg_color": "#ffffff",
   "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "name": "lojaoboaz",
+  "short_name": "lojaoboaz",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
-  "country_code": "BR",
+  "mini_logo": "",
+  "font_family": "_",
+  "favicon": "/img/uploads/favicon.png",
   "icons_font": "_",
-  "font_family": "_"
+  "country_code": "BR",
+  "secondary_color": "#393e46",
+  "icon": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.lojaoboaz.com%2Fbicicleta-aro-29-free-action-flexus-10-21v-cor-verde&psig=AOvVaw3gvB8lHTW0ZmUk7VoTezhX&ust=1665758822482000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMjCzaq53foCFQAAAAAdAAAAABAE",
+  "store_id": 2466,
+  "description": "lojaoboaz",
+  "large_icon": "/img/large-icon.png"
 }
